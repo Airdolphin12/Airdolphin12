@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Airdolphin12
 - 👀 I’m interested in Front-end Programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently re-learning the Front-End
 - 💞️ I’m looking to collaborate on Web-Development
 - 📫 Reach me via email { arthurjesse56@gmail.com}
 
